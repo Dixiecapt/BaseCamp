@@ -1,12 +1,12 @@
 <img src="icon.png" width="128" alt="Base Camp">
 
-**Download: [the latest release](https://github.com/Dixiecapt/BaseCamp/releases/latest)** - `BaseCamp-0.1.3.zip` to install by hand, `BaseCamp-0.1.3-thunderstore.zip` for a mod manager, and the illustrated guide `Base Camp - Guide.pdf`.
+**Download: [the latest release](https://github.com/Dixiecapt/BaseCamp/releases/latest)** - `BaseCamp-0.1.4.zip` to install by hand, `BaseCamp-0.1.4-thunderstore.zip` for a mod manager, and the illustrated guide `Base Camp - Guide.pdf`.
 
 # Base Camp - A Portable Wall Tent
 
 **A canvas wall tent for Sailwind, with a cot to sleep in and a little wood stove to cook on. Buy it at Fort Aestrin packed in a worn old sea chest, carry it aboard, sail anywhere and pitch it on any island's land. Whatever you leave inside is kept, as in a house.**
 
-*Version 0.1.3 (beta). Please report any bugs to Dixiecapt with your BepInEx log (`BepInEx\LogOutput.log`).*
+*Version 0.1.4 (beta). Please report any bugs to Dixiecapt with your BepInEx log (`BepInEx\LogOutput.log`).*
 
 The illustrated guide, **Base Camp - Guide.pdf**, comes with the download.
 
@@ -91,6 +91,7 @@ If it can't pack yet, it says why: "Buy the tent first.", "Take your things out 
 - When you load, the tent is put back up before your things are read, so they return inside it, where you left them.
 
 ## Good to know
+- The chest is never taken by the game's far-item rule. The game clears away a bought thing left lying loose (in no house, on no boat) once you are 800 m from it - but not this chest: it stays where you set it, held still until you come back.
 - There is one tent per game, so look after its chest: a chest lost at sea or destroyed is not replaced.
 - A crate's contents stay with the crate. Take a crate of firewood out of the tent and its logs go with it.
 - On uneven ground the canvas can sit a little above the lowest point, up to about 18 cm.
